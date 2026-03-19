@@ -2,7 +2,7 @@
   "name": "Jazz · Buikpijn Logboek",
   "short_name": "Jazz Logboek",
   "description": "Dagelijks buikpijnlogboek voor Jazz",
-  "start_url": "./jazz-logboek.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#FAF7F2",
   "theme_color": "#3D2B1F",
